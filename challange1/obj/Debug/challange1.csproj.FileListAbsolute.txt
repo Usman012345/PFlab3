@@ -1,0 +1,7 @@
+E:\PF\PFlab3\challange1\obj\Debug\challange1.csproj.AssemblyReference.cache
+E:\PF\PFlab3\challange1\obj\Debug\challange1.csproj.CoreCompileInputs.cache
+E:\PF\PFlab3\challange1\bin\Debug\challange1.exe.config
+E:\PF\PFlab3\challange1\bin\Debug\challange1.exe
+E:\PF\PFlab3\challange1\bin\Debug\challange1.pdb
+E:\PF\PFlab3\challange1\obj\Debug\challange1.exe
+E:\PF\PFlab3\challange1\obj\Debug\challange1.pdb
